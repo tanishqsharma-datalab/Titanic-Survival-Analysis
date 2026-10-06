@@ -1,7 +1,5 @@
 # Titanic-Survival-Analysis
-Analyzing Titanic passenger data to figure out what actually affected someone's chances of survival — things like gender, class, age, and family size.
-
-
+Analyzing Titanic passenger data to figure out what actually affected someone's chances of survival — based on factors like gender, class, age, and family size.
 
 ## Contents
 - [Introduction](#introduction)
